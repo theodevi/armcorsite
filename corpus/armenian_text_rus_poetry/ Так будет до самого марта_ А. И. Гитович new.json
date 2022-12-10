@@ -1,0 +1,607 @@
+{
+    "meta": {
+        "title": " \u0422\u0430\u043a \u0431\u0443\u0434\u0435\u0442 \u0434\u043e \u0441\u0430\u043c\u043e\u0433\u043e \u043c\u0430\u0440\u0442\u0430",
+        "author": " \u0410. \u0418. \u0413\u0438\u0442\u043e\u0432\u0438\u0447 ",
+        "subtitle": " -",
+        "year_written": 1965,
+        "year_published": 0,
+        "citation": " \u0413\u0438\u0442\u043e\u0432\u0438\u0447 \u0410. \u0418. \u0422\u0430\u043a \u0431\u0443\u0434\u0435\u0442 \u0434\u043e \u0441\u0430\u043c\u043e\u0433\u043e \u043c\u0430\u0440\u0442\u0430 // \u0410. \u0418. \u0413\u0438\u0442\u043e\u0432\u0438\u0447. \u0421\u0442\u0438\u0445\u043e\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u044f. \u041b.: \u0425\u0443\u0434\u043e\u0436. \u043b\u0438\u0442., 1982. \u0421.130\u2013131. "
+    },
+    "sentences": [
+        {
+            "text": " \u0422\u0430\u043a \u0431\u0443\u0434\u0435\u0442 \u0434\u043e \u0441\u0430\u043c\u043e\u0433\u043e \u043c\u0430\u0440\u0442\u0430",
+            "words": [
+                {
+                    "wf": "\u0422\u0430\u043a",
+                    "wtype": "word",
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0442\u0430\u043a"
+                        }
+                    ],
+                    "off_start": 1,
+                    "off_end": 4
+                },
+                {
+                    "wf": "\u0431\u0443\u0434\u0435\u0442",
+                    "wtype": "word",
+                    "next_word": 2,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u044b\u0442\u044c"
+                        }
+                    ],
+                    "off_start": 5,
+                    "off_end": 10
+                },
+                {
+                    "wf": "\u0434\u043e",
+                    "wtype": "word",
+                    "next_word": 3,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0434\u043e"
+                        }
+                    ],
+                    "off_start": 11,
+                    "off_end": 13
+                },
+                {
+                    "wf": "\u0441\u0430\u043c\u043e\u0433\u043e",
+                    "wtype": "word",
+                    "next_word": 4,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0430\u043c\u044b\u0439"
+                        }
+                    ],
+                    "off_start": 14,
+                    "off_end": 20
+                },
+                {
+                    "wf": "\u043c\u0430\u0440\u0442\u0430",
+                    "wtype": "word",
+                    "next_word": 5,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043c\u0430\u0440\u0442"
+                        }
+                    ],
+                    "off_start": 21,
+                    "off_end": 26
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u042f \u0441\u043f\u043b\u044e \u0441\u0440\u0435\u0434\u0438 \u0437\u0438\u043c\u043d\u0438\u0445 \u043d\u043e\u0447\u0435\u0439\u2028\u0410 \u0433\u043e\u0440\u044b \u0413\u0430\u0440\u043d\u0438 \u0438 \u0413\u0435\u0433\u0430\u0440\u0442\u0430\u2028\u0421\u0442\u043e\u044f\u0442 \u0443 \u043f\u043e\u0441\u0442\u0435\u043b\u0438 \u043c\u043e\u0435\u0439.",
+            "words": [
+                {
+                    "wf": "\u042f",
+                    "wtype": "word",
+                    "next_word": 1,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u044f"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 1
+                },
+                {
+                    "wf": "\u0441\u043f\u043b\u044e",
+                    "wtype": "word",
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u043f\u0430\u0442\u044c"
+                        }
+                    ],
+                    "off_start": 2,
+                    "off_end": 6
+                },
+                {
+                    "wf": "\u0441\u0440\u0435\u0434\u0438",
+                    "wtype": "word",
+                    "next_word": 3,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0440\u0435\u0434\u0438"
+                        }
+                    ],
+                    "off_start": 7,
+                    "off_end": 12
+                },
+                {
+                    "wf": "\u0437\u0438\u043c\u043d\u0438\u0445",
+                    "wtype": "word",
+                    "next_word": 4,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0437\u0438\u043c\u043d\u0438\u0439"
+                        }
+                    ],
+                    "off_start": 13,
+                    "off_end": 19
+                },
+                {
+                    "wf": "\u043d\u043e\u0447\u0435\u0439",
+                    "wtype": "word",
+                    "next_word": 5,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u043e\u0447\u044c"
+                        }
+                    ],
+                    "off_start": 20,
+                    "off_end": 25
+                },
+                {
+                    "wf": "\u0410",
+                    "wtype": "word",
+                    "next_word": 6,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0430"
+                        }
+                    ],
+                    "off_start": 26,
+                    "off_end": 27
+                },
+                {
+                    "wf": "\u0433\u043e\u0440\u044b",
+                    "wtype": "word",
+                    "next_word": 7,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u043e\u0440\u0430"
+                        }
+                    ],
+                    "off_start": 28,
+                    "off_end": 32
+                },
+                {
+                    "wf": "\u0413\u0430\u0440\u043d\u0438",
+                    "wtype": "word",
+                    "next_word": 8,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u0430\u0440\u043d\u0438"
+                        }
+                    ],
+                    "off_start": 33,
+                    "off_end": 38
+                },
+                {
+                    "wf": "\u0438",
+                    "wtype": "word",
+                    "next_word": 9,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0438"
+                        }
+                    ],
+                    "off_start": 11,
+                    "off_end": 12
+                },
+                {
+                    "wf": "\u0413\u0435\u0433\u0430\u0440\u0442\u0430",
+                    "wtype": "word",
+                    "next_word": 10,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u0435\u0433\u0430\u0440\u0442"
+                        }
+                    ],
+                    "off_start": 41,
+                    "off_end": 48
+                },
+                {
+                    "wf": "\u0421\u0442\u043e\u044f\u0442",
+                    "wtype": "word",
+                    "next_word": 11,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0442\u043e\u044f\u0442\u044c"
+                        }
+                    ],
+                    "off_start": 49,
+                    "off_end": 54
+                },
+                {
+                    "wf": "\u0443",
+                    "wtype": "word",
+                    "next_word": 12,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0443"
+                        }
+                    ],
+                    "off_start": 55,
+                    "off_end": 56
+                },
+                {
+                    "wf": "\u043f\u043e\u0441\u0442\u0435\u043b\u0438",
+                    "wtype": "word",
+                    "next_word": 13,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u043e\u0441\u0442\u0435\u043b\u044c"
+                        }
+                    ],
+                    "off_start": 57,
+                    "off_end": 64
+                },
+                {
+                    "wf": "\u043c\u043e\u0435\u0439",
+                    "wtype": "word",
+                    "next_word": 14,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043c\u043e\u0439"
+                        }
+                    ],
+                    "off_start": 65,
+                    "off_end": 69
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "next_word": 15,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "."
+                        }
+                    ],
+                    "off_start": 69,
+                    "off_end": 70
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0418 \u0432\u0435\u0440\u044e \u044f \u0432\u0435\u0440\u043e\u0439 \u043c\u043b\u0430\u0434\u0435\u043d\u0446\u0430,\u2028\u0427\u0442\u043e \u044d\u0442\u043e \u2014 \u043e\u0441\u043d\u043e\u0432\u0430 \u043e\u0441\u043d\u043e\u0432,\u2028\u041a\u043e\u0442\u043e\u0440\u0443\u044e \u0433\u0435\u043d\u0438\u0439 \u0413\u0430\u043b\u0435\u043d\u0446\u0430\u2028\u041c\u043d\u0435 \u0441\u043e\u0437\u0434\u0430\u043b \u0438\u0437 \u043a\u0440\u0430\u0441\u043e\u043a \u0438 \u0441\u043d\u043e\u0432.",
+            "words": [
+                {
+                    "wf": "\u0418",
+                    "wtype": "word",
+                    "next_word": 1,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0438"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 1
+                },
+                {
+                    "wf": "\u0432\u0435\u0440\u044e",
+                    "wtype": "word",
+                    "next_word": 2,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u0435\u0440\u0438\u0442\u044c"
+                        }
+                    ],
+                    "off_start": 2,
+                    "off_end": 6
+                },
+                {
+                    "wf": "\u044f",
+                    "wtype": "word",
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u044f"
+                        }
+                    ],
+                    "off_start": 7,
+                    "off_end": 8
+                },
+                {
+                    "wf": "\u0432\u0435\u0440\u043e\u0439",
+                    "wtype": "word",
+                    "next_word": 4,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u0435\u0440\u0430"
+                        }
+                    ],
+                    "off_start": 9,
+                    "off_end": 14
+                },
+                {
+                    "wf": "\u043c\u043b\u0430\u0434\u0435\u043d\u0446\u0430",
+                    "wtype": "word",
+                    "next_word": 5,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u043c\u043b\u0430\u0434\u0435\u043d\u0435\u0446"
+                        }
+                    ],
+                    "off_start": 15,
+                    "off_end": 23
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "next_word": 6,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ","
+                        }
+                    ],
+                    "off_start": 23,
+                    "off_end": 24
+                },
+                {
+                    "wf": "\u0427\u0442\u043e",
+                    "wtype": "word",
+                    "next_word": 7,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0447\u0442\u043e"
+                        }
+                    ],
+                    "off_start": 25,
+                    "off_end": 28
+                },
+                {
+                    "wf": "\u044d\u0442\u043e",
+                    "wtype": "word",
+                    "next_word": 8,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u044d\u0442\u043e"
+                        }
+                    ],
+                    "off_start": 29,
+                    "off_end": 32
+                },
+                {
+                    "wf": "\u043e\u0441\u043d\u043e\u0432\u0430",
+                    "wtype": "word",
+                    "next_word": 9,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0441\u043d\u043e\u0432\u0430"
+                        }
+                    ],
+                    "off_start": 35,
+                    "off_end": 41
+                },
+                {
+                    "wf": "\u043e\u0441\u043d\u043e\u0432",
+                    "wtype": "word",
+                    "next_word": 10,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0441\u043d\u043e\u0432\u0430"
+                        }
+                    ],
+                    "off_start": 35,
+                    "off_end": 40
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "next_word": 6,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ","
+                        }
+                    ],
+                    "off_start": 23,
+                    "off_end": 24
+                },
+                {
+                    "wf": "\u041a\u043e\u0442\u043e\u0440\u0443\u044e",
+                    "wtype": "word",
+                    "next_word": 12,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u043e\u0442\u043e\u0440\u044b\u0439"
+                        }
+                    ],
+                    "off_start": 49,
+                    "off_end": 56
+                },
+                {
+                    "wf": "\u0433\u0435\u043d\u0438\u0439",
+                    "wtype": "word",
+                    "next_word": 13,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u0435\u043d\u0438\u0439"
+                        }
+                    ],
+                    "off_start": 57,
+                    "off_end": 62
+                },
+                {
+                    "wf": "\u0413\u0430\u043b\u0435\u043d\u0446\u0430",
+                    "wtype": "word",
+                    "next_word": 14,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u0430\u043b\u0435\u043d\u0446\u0430"
+                        }
+                    ],
+                    "off_start": 63,
+                    "off_end": 70
+                },
+                {
+                    "wf": "\u041c\u043d\u0435",
+                    "wtype": "word",
+                    "next_word": 15,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u044f"
+                        }
+                    ],
+                    "off_start": 71,
+                    "off_end": 74
+                },
+                {
+                    "wf": "\u0441\u043e\u0437\u0434\u0430\u043b",
+                    "wtype": "word",
+                    "next_word": 16,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u043e\u0437\u0434\u0430\u0442\u044c"
+                        }
+                    ],
+                    "off_start": 75,
+                    "off_end": 81
+                },
+                {
+                    "wf": "\u0438\u0437",
+                    "wtype": "word",
+                    "next_word": 17,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0438\u0437"
+                        }
+                    ],
+                    "off_start": 82,
+                    "off_end": 84
+                },
+                {
+                    "wf": "\u043a\u0440\u0430\u0441\u043e\u043a",
+                    "wtype": "word",
+                    "next_word": 18,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u0440\u0430\u0441\u043a\u0430"
+                        }
+                    ],
+                    "off_start": 85,
+                    "off_end": 91
+                },
+                {
+                    "wf": "\u0438",
+                    "wtype": "word",
+                    "next_word": 19,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0438"
+                        }
+                    ],
+                    "off_start": 60,
+                    "off_end": 61
+                },
+                {
+                    "wf": "\u0441\u043d\u043e\u0432",
+                    "wtype": "word",
+                    "next_word": 20,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u043e\u043d"
+                        }
+                    ],
+                    "off_start": 36,
+                    "off_end": 40
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "next_word": 21,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "."
+                        }
+                    ],
+                    "off_start": 98,
+                    "off_end": 99
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        }
+    ]
+}

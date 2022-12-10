@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.navbar {
+    background:#0D4C92;
+}
+.nav-link,
+.navbar-brand {
+    color: #FFFBEB;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #495579;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.my-4 {
+    color: #495579;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
+

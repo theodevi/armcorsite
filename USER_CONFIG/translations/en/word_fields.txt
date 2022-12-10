@@ -1,0 +1,13 @@
+lex2	2nd lemma
+logogram	logogram
+segment	segment
+trans_de	translation (DE)
+trans_de2	2nd transl. (DE)
+trans_en	translation (EN)
+trans_en2	2nd transl. (EN)
+trans_fr	translation (FR)
+trans_fr2	2nd transl. (FR)
+trans_ru	translation (RU)
+trans_ru2	2nd transl. (RU)
+transcription	transcription
+

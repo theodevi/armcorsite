@@ -1,0 +1,8 @@
+IPA	IPA
+UPA	UPA
+corpus	corpus
+cyrillic	cyrillic
+dictionary	dictionary
+latin	latin
+original	original
+

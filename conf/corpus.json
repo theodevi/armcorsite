@@ -1,0 +1,123 @@
+{
+  "accidental_word_fields": [],
+  "all_language_search_enabled": false,
+  "ambiguous_analyses": false,
+  "author_metafield": "",
+  "auto_switch_tiers": {},
+  "citation": "\"Армянский текст русской поэзии\". ",
+  "context_header_rtl": false,
+  "corpus_name": "armenian_text_rus_poetry",
+  "debug": false,
+  "default_locale": "en",
+  "default_values": {},
+  "default_view": "standard",
+  "detect_lemma_queries": false,
+  "display_freq_rank": true,
+  "fulltext_page_size": 100,
+  "fulltext_search_enabled": true,
+  "fulltext_view_enabled": true,
+  "generate_dictionary": true,
+  "gloss_search_enabled": false,
+  "images": false,
+  "input_format": "json",
+  "input_methods": [
+    "normal"
+  ],
+  "integer_meta_fields": [],
+  "interface_languages": [
+    "en",
+    "ru"
+  ],
+  "keep_lemma_order": false,
+  "keyboards": {},
+  "lang_props": {},
+  "languages": [
+    "russian"
+  ],
+  "line_plot_meta": [],
+  "max_context_expand": 100,
+  "max_docs_retrieve": 9999,
+  "max_hits_retrieve": 10000,
+  "max_words_in_sentence": 100,
+  "media": false,
+  "media_length": 60,
+  "media_youtube": false,
+  "multiple_choice_fields": {},
+  "negative_search_enabled": true,
+  "query_log": false,
+  "query_timeout": 60,
+  "rtl_languages": [],
+  "search_meta": {
+    "columns": [
+      [
+        {
+          "name": "author",
+          "text": "Автор",
+          "type": "input_text",
+          "value": ""
+        },
+        {
+          "name": "title",
+          "text": "Название",
+          "type": "input_text",
+          "value": ""
+        },
+        {
+          "name": "",
+          "text": "",
+          "type": "separator",
+          "value": ""
+        },
+        {
+          "name": "year_written",
+          "text": "Год написания",
+          "type": "input_number",
+          "value": ""
+        },
+        {
+          "name": "year_published",
+          "text": "Год первой публикации",
+          "type": "input_number",
+          "value": ""
+        }
+      ],
+      [
+        {
+          "name": "year_written",
+          "text": "Годы написания (диапазон)",
+          "type": "input_range",
+          "value": ""
+        },
+        {
+          "name": "year_published",
+          "text": "Годы первой публикации (диапазон)",
+          "type": "input_range",
+          "value": ""
+        }
+      ]
+    ],
+    "stat_options": [
+      "author",
+      "year_published",
+      "year_written"
+    ]
+  },
+  "search_remove_whitespaces": false,
+  "sentence_meta": [],
+  "start_page_url": "",
+  "transliterations": [],
+  "video": false,
+  "viewable_meta": [
+    "title",
+    "author",
+    "year_published",
+    "year_written",
+    "citation",
+    "subtitle"
+  ],
+  "wf_lowercase": true,
+  "word_fields": [],
+  "word_search_display_gr": true,
+  "word_table_fields": [],
+  "year_sort_enabled": true
+}

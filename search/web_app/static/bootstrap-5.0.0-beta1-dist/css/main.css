@@ -1,0 +1,116 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.navbar {
+    background:#0D4C92;
+}
+.nav-link,
+.navbar-brand {
+    color: #FFFBEB;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #495579;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+  background-image: url('3200384.jpg');
+}
+
+.text-white1 {
+	color: #FFFBEB;
+	margin-left: 1em;
+}
+
+.text-white2 {
+	color: #FFFBEB;
+	background: #0D4C92;
+	margin-left: 2.5em;
+	margin-right: 2.5em;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.header {
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.text-center {
+  text-align: center !important;
+}
+.my-5 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+.has-bg-img h1 {
+	color: white;
+  	text-shadow: 0 0 3px #495579;
+	font-weight: bold
+}
+
+.row h2 {
+	color: #495579;
+}
+
+.description button {
+	border: 1px solid;
+	border-radius: 0;
+}
+
+.description button:hover {
+	color: #000;
+}
+
+.block1 h2{
+	color: #495579;
+	margin-left: 1em;
+}
+
+.block1 p{
+	color: #495579;
+	margin-left: 2em;
+}
+
+.background {
+	padding: 4em 0;
+}
+.block2 h2{
+	color: #495579;
+	margin-left: 1em;
+}
+.team {
+	color: #495579;
+	padding: 0 180px;
+	border: none;
+}
+.team .card-columns {
+	-webkit-column-count: 5;
+	-moz-column-count: 5;
+	column-count: 5;
+	border: none;
+}
+.team .card {
+	border: none;
+
+}
+.team .card-title {
+	font-size: 1rem;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+.team .card-text {
+	font-size: 0.8rem;
+	margin-bottom: 0;
+}
